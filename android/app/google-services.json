@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732449408639",
+    "project_id": "budget-planner-3c3a6",
+    "storage_bucket": "budget-planner-3c3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732449408639:android:fdc33fb30f6a5b16f5e14a",
+        "android_client_info": {
+          "package_name": "com.example.budget_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jdL00z0nAiCu6p4c-c_a_DOXjBO-9Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
